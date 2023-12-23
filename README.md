@@ -1,0 +1,1 @@
+The aim of the project is to design and implement an accident prevention system using an eye blink sensor. The system will monitor the driver's eye blinks to detect signs of drowsiness or distraction and provide timely warning to prevent potential accidents.
